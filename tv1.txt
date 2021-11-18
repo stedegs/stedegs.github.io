@@ -4,7 +4,7 @@ CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
 CCTV3,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225924/index.m3u8
 CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
 CCTV5,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
-CCTV5+,#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225926/index.m3u8
+CCTV5+,http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 CCTV6,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225926/index.m3u8
 CCTV7,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
 CCTV8,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225928/index.m3u8
@@ -17,6 +17,8 @@ CCTV14,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
 CCTV15,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 CCTV16,https://live.olympicchannelchina.cn/aoyun/cctv16_1td.m3u8
 CCTV17,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
+纯享4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+百事通4K,http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 CCTV4K超高清,http://112.50.242.133/PLTV/88888888/224/3221226998/index.m3u8?icpid=88888888&from=16&hms_devid=143,2117&online=1634553083
 福建|福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 福建|福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
